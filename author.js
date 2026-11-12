@@ -12,10 +12,10 @@ window.PV = window.PV || {};
   const AUTHOR_TAG = 'ЕГЭ английский язык';
 
   const IMG = {
-    hello: 'assets/mascot/hello.webp',
-    wow: 'assets/mascot/wow.webp',
-    wink: 'assets/mascot/wink.webp',
-    super: 'assets/mascot/super.webp',
+    hello: 'hello.webp',
+    wow: 'wow.webp',
+    wink: 'wink.webp',
+    super: 'super.webp',
   };
 
   const PHRASES = {
