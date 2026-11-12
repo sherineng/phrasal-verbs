@@ -1,0 +1,540 @@
+# Формат:
+# = name | display (необязательно) | alt1, alt2 (необязательно)
+# - [паттерн] значение по-русски
+# ~ English definition (своя формулировка в стиле learner's dictionary)
+# > оригинальный пример из файла | перевод
+# >f пример из ФИПИ | перевод
+# + дополнительный пример | перевод
+
+= back away | back away (from smb/smth)
+- пятиться, отступать (от чего-то страшного или неприятного)
+~ to move backwards slowly, away from something frightening or unpleasant
+> The dog started growling, and the children slowly backed away. | Собака начала рычать, и дети медленно попятились.
++ He backed away from the edge of the cliff. | Он попятился от края обрыва.
+- уклоняться, отказываться (от неприятного дела, обещания, плана)
+~ to decide not to do something you planned or promised, because it seems difficult or unpopular
+> The company backed away from its plan to close the factory. | Компания отказалась от плана закрыть завод.
++ The mayor backed away from his promise to build a new park. | Мэр отказался от своего обещания построить новый парк.
+
+= back off
+- отступить, отойти подальше (от опасности)
+~ to move back or away from someone or something, especially to avoid danger
+> When the bear stood up, the hikers backed off. | Когда медведь встал, туристы отступили.
++ The crowd backed off when the police arrived. | Толпа отошла, когда приехала полиция.
+- отстать, перестать давить, угрожать или критиковать
+~ to stop putting pressure on someone, criticising them or trying to control them
+> Back off! I can make my own decisions. | Отстань! Я могу сам принимать решения.
++ Back off and let her speak for herself. | Не лезь и дай ей самой высказаться.
+- [back off from smth] отказаться от действия, чтобы избежать конфликта
+~ to decide not to continue with an action or demand in order to avoid a conflict
+> The government backed off from raising taxes. | Правительство отказалось от повышения налогов.
++ The two countries backed off from open conflict. | Две страны отказались от открытого конфликта.
+
+= be back
+- вернуться, быть снова на месте
+~ to return to a place after being away
+> I'm going to the shop. I'll be back in ten minutes. | Я иду в магазин. Вернусь через десять минут.
++ Is Mum back from work yet? | Мама уже вернулась с работы?
++ He'll be back on Monday. | Он вернётся в понедельник.
+
+= be out
+- отсутствовать, не быть дома или на месте
+~ to not be at home or at your place of work
+> I called you yesterday, but you were out. | Я звонил тебе вчера, но тебя не было дома.
++ Sorry, Mr Green is out at the moment. | Простите, мистера Грина сейчас нет на месте.
+- (о книге, фильме) выйти, быть опубликованным
+~ to be available to buy, read or watch for the first time
+> Her new novel is out next month. | Её новый роман выходит в следующем месяце.
++ The film is out on DVD now. | Фильм уже вышел на DVD.
+
+= be over
+- закончиться, завершиться
+~ to be finished or completed
+> When the film was over, we went for a walk. | Когда фильм закончился, мы пошли гулять.
++ The exams are finally over! | Экзамены наконец-то закончились!
++ Summer is over, and school starts again. | Лето закончилось, и снова начинается школа.
+
+= be up
+- не спать, уже встать
+~ to be awake and out of bed
+> Are you still up? It's two in the morning! | Ты ещё не спишь? Уже два часа ночи!
++ Dad is always up before six. | Папа всегда встаёт до шести.
++ I was up all night studying for the test. | Я не спал всю ночь, готовясь к контрольной.
+
+= be up to
+- замышлять, затевать (что-то тайное или нехорошее)
+~ to be secretly doing or planning something, usually something bad
+> The kids are far too quiet. What are they up to? | Дети слишком тихие. Что они затевают?
++ I'm sure he's up to something. | Уверен, он что-то замышляет.
++ What were you two up to in the garden all afternoon? | Что вы двое затевали в саду весь день?
++ I could tell the boys were up to no good. | Я видел, что мальчишки замышляют что-то нехорошее.
+- зависеть от кого-то, кому-то решать
+~ to be someone's responsibility or decision
+> "Shall we stay or go?" "It's up to you." | «Остаёмся или уходим?» — «Решай сам».
++ It's up to the manager to decide. | Решать менеджеру.
++ The choice of topic is up to the students. | Выбор темы остаётся за учениками.
++ Whether we go abroad this summer is up to our parents. | Поедем ли мы летом за границу, решают родители.
+- быть в состоянии, справиться (часто с not)
+~ to be well enough or able enough to do something
+> After his illness, he wasn't up to playing football. | После болезни он был не в силах играть в футбол.
++ I don't feel up to going out tonight. | Мне сегодня не по силам куда-то идти.
++ Are you up to a long walk after lunch? | У тебя хватит сил на долгую прогулку после обеда?
++ She was not up to the job, so she left the company. | Она не справлялась с работой, поэтому ушла из компании.
+
+= blow out
+- задуть (свечу, огонь)
+~ to stop a flame from burning by blowing on it
+> She made a wish and blew out the candles on her cake. | Она загадала желание и задула свечи на торте.
++ Blow out the candle before you go to sleep. | Задуй свечу, прежде чем ляжешь спать.
+- (о пламени) погаснуть от ветра
+~ (of a flame) to stop burning because of the wind
+> The match blew out before I could light the fire. | Спичка погасла на ветру, прежде чем я успел разжечь костёр.
++ The candles blew out in the wind. | Свечи погасли на ветру.
+
+= blow up
+- взорвать(-ся)
+~ to destroy something with a bomb, or to be destroyed in an explosion
+> The car blew up a few seconds after the driver jumped out. The soldiers blew up the bridge. | Машина взорвалась через несколько секунд после того, как водитель выпрыгнул. Солдаты взорвали мост.
++ The old factory was blown up to make room for a new road. | Старую фабрику взорвали, чтобы освободить место под новую дорогу.
+- надуть (шарик, матрас, шину)
+~ to fill something with air
+> We spent the morning blowing up balloons for the party. | Мы все утро надували шарики для вечеринки.
++ Can you help me blow up this air mattress? | Поможешь мне надуть этот матрас?
+- (о буре, ветре) внезапно начаться
+~ (of a storm or wind) to start suddenly
+> A storm blew up while we were out at sea. | Пока мы были в море, внезапно поднялась буря.
++ A strong wind blew up in the afternoon. | После обеда внезапно поднялся сильный ветер.
+- вспылить, выйти из себя
+~ to suddenly become very angry
+> My dad blew up at me when I came home late. | Папа вспылил, когда я пришёл домой поздно.
++ She blew up when she saw the mess in the kitchen. | Она вспылила, увидев беспорядок на кухне.
+
+= bring about
+- вызвать, повлечь, осуществить (= cause)
+~ to make something happen; to cause something
+> The Internet has brought about huge changes in the way we live. | Интернет вызвал огромные перемены в нашем образе жизни.
++ The new law brought about a fall in crime. | Новый закон привёл к снижению преступности.
++ Her hard work brought about a great improvement. | Её упорный труд привёл к значительному улучшению.
+
+= bring back
+- вернуть, принести обратно
+~ to return something or someone to the place where they were before
+> Please bring back the book when you've finished it. | Пожалуйста, верни книгу, когда прочитаешь.
++ Can you bring back my umbrella tomorrow? | Можешь завтра принести мой зонт обратно?
+- напомнить, пробудить (воспоминания)
+~ to make you remember something from the past
+> This song brings back memories of my childhood. | Эта песня напоминает мне о детстве.
++ The smell of fresh bread brings back my grandmother's kitchen. | Запах свежего хлеба возвращает меня на бабушкину кухню.
+- снова ввести (правило, обычай)
+~ to start using a rule, law or custom again
+> Many people want to bring back school uniforms. | Многие хотят вернуть школьную форму.
++ The government wants to bring back the old exam system. | Правительство хочет вернуть прежнюю систему экзаменов.
+
+= bring up
+- воспитывать (= raise), часто в пассиве be brought up
+~ to look after a child until it becomes an adult and teach it how to behave
+> She had been brought up on very plain food. | Её растили на очень простой пище.
++ He was brought up by his grandparents. | Его воспитывали бабушка с дедушкой.
+- поднимать тему, заводить разговор о
+~ to start talking about a particular subject
+> She didn't want to bring up the subject of money at dinner. | Она не хотела заводить разговор о деньгах за ужином.
++ Please don't bring up that topic in front of my mother. | Пожалуйста, не поднимай эту тему при моей маме.
+
+= burst out
+- воскликнуть, выпалить
+~ to say something suddenly and loudly, often with strong emotion
+> "I hate you all!" she burst out. | «Я вас всех ненавижу!» — выпалила она.
++ "It's not fair!" he burst out. | «Это нечестно!» — воскликнул он.
+- [burst out laughing / crying] вдруг расхохотаться, разрыдаться
+~ to suddenly start laughing or crying
+> When he saw my new haircut, he burst out laughing. | Увидев мою новую стрижку, он расхохотался.
++ The baby burst out crying in the middle of the night. | Среди ночи малыш вдруг разрыдался.
+
+= break down
+- (о машине, технике) сломаться
+~ (of a machine or vehicle) to stop working
+> Our car broke down on the way to the airport. | Наша машина сломалась по дороге в аэропорт.
++ My laptop broke down again yesterday. | Мой ноутбук вчера снова сломался.
+- (о переговорах, отношениях) сорваться, разладиться
+~ (of talks, a relationship or a system) to fail
+> Their marriage broke down after five years. | Их брак распался через пять лет.
++ Talks between the two sides broke down. | Переговоры между сторонами сорвались.
+- не сдержаться, расплакаться
+~ to lose control of your feelings and start crying
+> She broke down when she heard the sad news. | Она расплакалась, когда услышала печальную новость.
++ He broke down in tears at the funeral. | Он не сдержал слёз на похоронах.
+- [break smth down] выломать (дверь); разделить на части
+~ to hit a door or wall until it falls; to divide something into smaller parts
+> The firefighters had to break down the door. Let's break the task down into smaller steps. | Пожарным пришлось выломать дверь. Давайте разделим задачу на небольшие шаги.
++ The teacher broke the text down into short parts. | Учитель разбил текст на короткие части.
+
+= break in
+- вломиться, проникнуть со взломом
+~ to enter a building illegally, usually by force, in order to steal
+> Thieves broke in while we were on holiday. | Воры проникли в дом, пока мы были в отпуске.
++ Someone broke in and stole our TV. | Кто-то вломился и украл наш телевизор.
+- [break in (on smth)] перебить, вмешаться в разговор
+~ to interrupt someone who is speaking
+> "That's not true!" Tom broke in. | «Это неправда!» — перебил Том.
++ Sorry to break in, but dinner is ready. | Простите, что перебиваю, но ужин готов.
+
+= break into
+- вломиться (в здание, машину)
+~ to enter a building or car illegally, usually by force
+> Someone broke into my car last night. | Прошлой ночью кто-то взломал мою машину.
++ Burglars broke into the shop through the back door. | Грабители проникли в магазин через заднюю дверь.
+- вдруг начать (смеяться, петь, бежать)
+~ to suddenly start doing something, such as laughing, singing or running
+> When she saw the puppy, she broke into a smile. | Увидев щенка, она улыбнулась.
++ The crowd broke into applause. | Толпа разразилась аплодисментами.
+- добиться успеха в новой сфере
+~ to manage to become successful in a new area of work
+> It is hard for young actors to break into Hollywood. | Молодым актёрам трудно пробиться в Голливуд.
++ She wants to break into the fashion industry. | Она хочет пробиться в индустрию моды.
+
+= break off
+- отломить(ся), отколоть(ся)
+~ to separate a part from something by breaking it, or to become separated in this way
+> A piece of the old wall broke off and fell into the river. | Кусок старой стены откололся и упал в реку.
++ He broke off a piece of chocolate and gave it to me. | Он отломил кусочек шоколада и дал мне.
+- прерваться, замолчать (на время)
+~ to suddenly stop speaking or doing something for a short time
+> She broke off in the middle of a sentence when the phone rang. | Она замолчала на полуслове, когда зазвонил телефон.
++ He broke off and looked at the door. | Он замолчал и посмотрел на дверь.
+- прервать, прекратить (отношения, переговоры)
+~ to end a relationship, talks or an agreement
+> He broke off the engagement a week before the wedding. | Он расторг помолвку за неделю до свадьбы.
++ The two countries broke off diplomatic relations. | Две страны разорвали дипломатические отношения.
+
+= break out
+- (о войне, пожаре, болезни) вспыхнуть, разразиться
+~ (of something unpleasant, like a war, fire or disease) to start suddenly
+> The fire broke out in the kitchen. | Пожар вспыхнул на кухне.
++ War broke out in 1939. | Война разразилась в 1939 году.
+- [break out of smth] вырваться, сбежать (из тюрьмы, клетки)
+~ to escape from a prison or another place where you are kept
+> Two prisoners broke out of jail last night. | Двое заключённых сбежали из тюрьмы прошлой ночью.
++ The tiger broke out of its cage. | Тигр вырвался из клетки.
+
+= break up
+- [break up (with smb)] расстаться (о паре)
+~ to end a romantic relationship
+> Jess and Mark broke up after three years together. | Джесс и Марк расстались после трёх лет вместе.
++ I broke up with my boyfriend last month. | Я рассталась с парнем в прошлом месяце.
+- (о собрании, толпе) разойтись; закончиться
+~ (of a meeting or a crowd) to end, with people leaving
+> The meeting broke up at about ten. | Собрание закончилось около десяти.
++ The crowd broke up when it began to rain. | Толпа разошлась, когда пошёл дождь.
+- разбить(ся), распасться на части
+~ to break into many pieces, or to separate into smaller parts
+> The ship broke up on the rocks. | Корабль разбился о скалы.
++ The ice began to break up in spring. | Весной лёд начал трескаться и ломаться.
+- (брит.) уйти на каникулы (о школе)
+~ (UK) (of a school or pupils) to stop classes for the holidays
+> When do you break up for the summer? | Когда у вас начинаются летние каникулы?
++ Our school breaks up on 22 December. | В нашей школе каникулы начинаются 22 декабря.
+
+= call back
+- перезвонить
+~ to phone someone again, or to phone someone who phoned you earlier
+> I'm busy right now. Can I call you back later? | Я сейчас занят. Можно я перезвоню позже?
++ Please ask him to call me back. | Пожалуйста, попроси его мне перезвонить.
+- [call smb back] позвать обратно, вернуть
+~ to ask someone to come back
+> She was leaving the room when her boss called her back. | Она выходила из комнаты, когда начальник позвал её обратно.
++ The teacher called the boy back to his desk. | Учитель вернул мальчика к парте.
+
+= call off
+- отменить
+~ to decide that a planned event will not happen
+> The match was called off because of the rain. | Матч отменили из-за дождя.
++ They called off the wedding. | Они отменили свадьбу.
+- отозвать (собаку, людей)
+~ to tell a dog or people to stop attacking or searching
+> Please call off your dog! | Пожалуйста, отзови свою собаку!
++ The officer called off his men. | Офицер отозвал своих людей.
+
+= calm down
+- успокоиться; успокоить кого-то
+~ to stop feeling upset or angry, or to make someone stop feeling this way
+> Calm down and tell me what happened. The teacher tried to calm the children down. | Успокойся и расскажи, что случилось. Учитель пытался успокоить детей.
++ Take a deep breath and calm down. | Сделай глубокий вдох и успокойся.
++ It took her an hour to calm down after the argument. | Ей потребовался час, чтобы успокоиться после ссоры.
+
+= carry on
+- [carry on (with smth) / carry on doing smth] продолжать
+~ to continue doing something
+> Carry on with your work while I'm out. She carried on talking after the bell rang. | Продолжай работать, пока меня нет. Она продолжала говорить и после звонка.
++ We carried on playing despite the rain. | Мы продолжали играть, несмотря на дождь.
+- продолжать путь, идти дальше
+~ to continue moving in the same direction
+> Carry on along this road until you reach the bridge. | Идите по этой дороге, пока не дойдёте до моста.
++ We carried on to the next village. | Мы пошли дальше, до следующей деревни.
+
+= carry out
+- выполнять, проводить (план, приказ, исследование, обещание)
+~ to do or complete something, such as a task, a plan, an order or research
+> Scientists carried out an experiment to test the idea. | Учёные провели эксперимент, чтобы проверить идею.
++ The soldiers carried out the order. | Солдаты выполнили приказ.
++ The company will carry out a survey next month. | В следующем месяце компания проведёт опрос.
+
+= catch up
+- [catch up (with smb) / catch smb up] догнать
+~ to reach someone who is ahead of you by moving faster
+> You go first. I'll catch up with you later. | Идите вперёд. Я догоню вас позже.
++ Run faster, they're catching us up! | Беги быстрее, они нас догоняют!
+- [catch up (with smb)] догнать по уровню, наверстать
+~ to reach the same level or standard as someone else
+> After his illness, Tom had to work hard to catch up with the class. | После болезни Тому пришлось много работать, чтобы догнать класс.
++ She missed a month of school and needs to catch up. | Она пропустила месяц занятий, и ей нужно наверстать.
+- [catch up on smth] наверстать упущенное, узнать новости
+~ to do something you did not have time to do earlier; to learn the latest news
+> I spent the weekend catching up on sleep. | Я провёл выходные, высыпаясь.
++ Let's meet for coffee and catch up on the news. | Давай встретимся за кофе и обсудим новости.
+
+= check in
+- (за)регистрироваться (в гостинице, в аэропорту)
+~ to arrive at a hotel or airport and give your details so that they know you are there
+> We checked in at the hotel at 3 p.m. | Мы зарегистрировались в отеле в 15:00.
++ You must check in two hours before the flight. | Нужно пройти регистрацию за два часа до рейса.
++ Where do we check in for the Rome flight? | Где проходит регистрация на рейс в Рим?
+
+= check out
+- выписаться (из гостиницы), рассчитавшись
+~ to pay your bill and leave a hotel
+> We have to check out of the hotel before noon. | Мы должны выписаться из отеля до полудня.
++ What time do you check out tomorrow? | Во сколько вы завтра выезжаете из отеля?
+- проверить, выяснить
+~ to find out if something is true or correct
+> The police are checking out his story. | Полиция проверяет его рассказ.
++ I'll check out the train times online. | Я посмотрю расписание поездов в интернете.
+- (разг.) посмотреть, заценить
+~ (informal) to look at something because it is interesting
+> Check out this video, it's really funny! | Зацени это видео, оно очень смешное!
++ Check out my new bike! | Зацени мой новый велосипед!
+- взять (книгу в библиотеке)
+~ to borrow a book from a library
+> You can check out up to five books at a time. | Можно брать до пяти книг за раз.
++ I checked out a novel from the library. | Я взял в библиотеке роман.
+
+= cheer up
+- повеселеть, приободриться (часто Cheer up! = Не грусти!)
+~ to start feeling happier
+> Cheer up! It's not the end of the world. | Не грусти! Это не конец света.
++ She cheered up when she saw her friends. | Она повеселела, увидев друзей.
+- [cheer smb up] подбодрить, развеселить
+~ to make someone feel happier
+> So of course they needed something to cheer them up. | Конечно же, им нужно было что-то, что их развеселит.
++ I bought some flowers to cheer my mum up. | Я купил цветы, чтобы поднять маме настроение.
+
+= clean up
+- убрать(ся), навести порядок
+~ to make a place clean and tidy
+> We cleaned up the kitchen after the party. | Мы убрались на кухне после вечеринки.
++ Clean up your room before dinner. | Убери в своей комнате до ужина.
++ The volunteers cleaned up the beach. | Волонтёры очистили пляж.
+
+= count on
+- рассчитывать, полагаться на
+~ to depend on someone or something; to be sure that something will happen
+> You can always count on me. | Ты всегда можешь на меня рассчитывать.
++ I'm counting on you to be on time. | Я рассчитываю, что ты придёшь вовремя.
++ We can't count on good weather. | Нельзя рассчитывать на хорошую погоду.
+
+= cut down on
+- сократить потребление чего-то
+~ to use, eat or drink less of something
+> The doctor told him to cut down on sugar. | Врач посоветовал ему сократить потребление сахара.
++ I'm trying to cut down on coffee. | Я пытаюсь пить меньше кофе.
++ We should cut down on plastic. | Нам следует сократить использование пластика.
+
+= cut off
+- отрезать, отрубить
+~ to remove something by cutting it
+> She cut off a piece of bread. | Она отрезала кусок хлеба.
++ He cut off a branch from the tree. | Он отрубил ветку от дерева.
+- отключить (воду, газ, электричество)
+~ to stop the supply of water, gas or electricity
+> Our electricity was cut off because we hadn't paid the bill. | Нам отключили электричество, потому что мы не заплатили по счёту.
++ The water will be cut off from 9 till 5 tomorrow. | Завтра с 9 до 17 воду отключат.
+- прервать (разговор); изолировать, отрезать от мира
+~ to interrupt a phone call or conversation; to make a place or person separate and alone
+> We were cut off in the middle of our phone call. The village was cut off by the snow. | Нас разъединили посреди телефонного разговора. Деревню отрезало снегом.
++ The flood cut off the town from the rest of the country. | Наводнение отрезало город от остальной страны.
+
+= cut out
+- вырезать
+~ to remove a shape from paper or cloth by cutting
+> She cut out the article and kept it. | Она вырезала статью и сохранила её.
++ The children cut out paper stars. | Дети вырезали бумажные звёзды.
+- исключить, перестать есть или делать
+~ to stop eating something or doing something, usually for your health
+> I've cut out sweets completely. Cut it out! (разг.: Прекрати!) | Я полностью исключил сладкое. Прекрати!
++ My doctor told me to cut out salt. | Врач велел мне исключить соль.
+- (о двигателе) заглохнуть
+~ (of an engine) to suddenly stop working
+> The engine cut out halfway up the hill. | Двигатель заглох на полпути в гору.
++ The motor cut out and the boat stopped. | Мотор заглох, и лодка остановилась.
+
+= come across
+- случайно встретить, наткнуться
+~ to meet someone or find something by chance
+> I came across some old photos while I was cleaning the attic. | Я наткнулся на старые фотографии, когда убирался на чердаке.
++ I came across an interesting article yesterday. | Вчера мне попалась интересная статья.
+- (о мысли, словах) быть понятым, дойти до слушателя
+~ (of an idea or message) to be clearly understood by other people
+> His speech was short, but his message came across clearly. | Его речь была короткой, но смысл дошёл до слушателей.
++ Your ideas didn't come across in the essay. | Твои идеи в сочинении получились непонятными.
+- [come across as] производить впечатление
+~ to seem to have a particular quality when people meet you
+> She can come across as a bit shy at first. | Поначалу она может производить впечатление застенчивой.
++ He comes across as very confident. | Он производит впечатление очень уверенного человека.
+
+= come along
+- пойти вместе, присоединиться
+~ to go somewhere with someone
+> We're going to the cinema. Do you want to come along? | Мы идём в кино. Хочешь с нами?
++ Can I come along to the party? | Можно мне пойти с вами на вечеринку?
+- появиться, подвернуться
+~ to appear or arrive, often by chance
+> Take every opportunity that comes along. | Пользуйся каждой возможностью, которая подвернётся.
++ A bus finally came along. | Наконец-то подошёл автобус.
+- продвигаться, получаться
+~ to make progress; to develop
+> How is your English coming along? | Как продвигается твой английский?
++ The project is coming along nicely. | Проект продвигается хорошо.
+
+= come back
+- вернуться
+~ to return to a place
+> She came back from Paris last week. | Она вернулась из Парижа на прошлой неделе.
++ Come back soon! | Возвращайся скорее!
++ I'll come back later. | Я вернусь позже.
+
+= come by
+- (амер.) заскочить, зайти ненадолго
+~ (US) to visit a place for a short time, usually on your way somewhere
+> Come by any time, I'm at home all day. | Заходи в любое время, я весь день дома.
++ Why don't you come by after work? | Почему бы тебе не заскочить после работы?
+- [come by smth] достать, раздобыть (то, что трудно получить)
+~ to manage to get something that is difficult to find
+> Good jobs are hard to come by these days. | Хорошую работу сейчас трудно найти.
++ How did you come by that old book? | Как тебе досталась эта старая книга?
+
+= come down
+- спуститься, упасть
+~ to move down to a lower place; to fall
+> Come down from that tree, it's dangerous! The old house came down in the storm. | Слезь с этого дерева, это опасно! Старый дом рухнул во время шторма.
++ Come down, dinner's ready! | Спускайся, ужин готов!
+- (о ценах, уровне) снизиться
+~ (of prices or levels) to become lower
+> The price of the tickets has come down. | Цена на билеты снизилась.
++ Prices of laptops have come down this year. | Цены на ноутбуки в этом году снизились.
+
+= come down with
+- заболеть (несерьёзной болезнью), слечь с
+~ to start to have an illness, usually a mild one
+> I think I'm coming down with a cold. | Кажется, я заболеваю простудой.
++ Half of the class came down with the flu. | Половина класса слегла с гриппом.
++ She came down with a fever on Monday. | В понедельник у неё поднялась температура.
+
+= come forward
+- откликнуться, вызваться (помочь, дать сведения)
+~ to offer to help or to give information, especially to the police
+> The police asked witnesses to come forward. | Полиция попросила свидетелей откликнуться.
++ No one came forward to claim the lost bag. | Никто не объявился за потерянной сумкой.
++ Several people came forward to help. | Несколько человек вызвались помочь.
+
+= come from
+- быть родом из, происходить из
+~ to be born in a place or to live there
+> "Where do you come from?" "I come from Spain." | «Откуда ты?» — «Я из Испании».
++ My family comes from a small village. | Моя семья родом из маленькой деревни.
+- происходить, возникать от (быть следствием)
+~ to be the result of something
+> Most of the noise comes from the street. | Большая часть шума идёт с улицы.
++ Where does this word come from? | Откуда произошло это слово?
+
+= come in
+- войти
+~ to enter a room or building
+> Come in and sit down. | Входите и садитесь.
++ May I come in? | Можно войти?
+- (о поезде, самолёте) прибыть
+~ (of a train, plane or ship) to arrive
+> The train from London came in late. | Поезд из Лондона прибыл с опозданием.
++ The plane comes in at six. | Самолёт прибывает в шесть.
+- (о новостях, информации) поступать
+~ (of news or information) to be received
+> Reports are coming in of a big fire in the city. | Поступают сообщения о большом пожаре в городе.
++ News is coming in about the election results. | Поступают новости о результатах выборов.
+
+= come off
+- оторваться, отвалиться, сойти
+~ to become separated from the thing it was fixed to
+> A button has come off my coat. | С моего пальто оторвалась пуговица.
++ The handle came off the cup. | У чашки отломилась ручка.
+- (о плане) удаться
+~ (of a plan) to succeed
+> We wanted to surprise her, but the plan didn't come off. | Мы хотели сделать ей сюрприз, но план не удался.
++ The trick didn't come off. | Трюк не удался.
+
+= come on
+- Давай! Скорее! (призыв поторопиться или постараться)
+~ said to make someone hurry or try harder
+> Come on, we'll be late! | Давай скорее, мы опоздаем!
++ Come on, you can do it! | Давай, у тебя получится!
+- Да ладно! (выражение недоверия)
+~ said to show that you do not believe what someone has just said
+> Oh, come on! You don't really believe that, do you? | Да ладно! Ты же в это не веришь, правда?
++ Come on, that's not funny. | Да ладно, это не смешно.
+- (о свете, приборе) включиться; (о болезни, дожде) начаться
+~ (of a light or machine) to start working; (of an illness or rain) to begin
+> The lights came on at seven. I feel a headache coming on. | Свет включился в семь. Чувствую, начинается головная боль.
++ The heating comes on at six. | Отопление включается в шесть.
+
+= come out
+- выйти (из помещения)
+~ to leave a room or building
+> She came out of the house to meet us. | Она вышла из дома нам навстречу.
++ The children came out of school at three. | Дети вышли из школы в три часа.
+- (о книге, фильме) выйти, быть опубликованным
+~ (of a book, film or album) to become available to the public
+> Her new album comes out in May. | Её новый альбом выходит в мае.
++ When does the game come out? | Когда выходит эта игра?
+- (о правде, новостях) стать известным, раскрыться
+~ (of a secret or the truth) to become known
+> The truth came out years later. | Правда вышла наружу спустя годы.
++ It came out that he had lied. | Выяснилось, что он солгал.
+- (о солнце, звёздах) появиться; (о цветах) распуститься
+~ (of the sun or stars) to appear in the sky; (of flowers) to open
+> The sun came out after the rain. | После дождя вышло солнце.
++ The first flowers come out in March. | Первые цветы распускаются в марте.
+
+= come over
+- [come over (to)] зайти, прийти в гости
+~ to visit someone at their home
+> Why don't you come over for dinner tonight? | Почему бы тебе не прийти к нам на ужин сегодня?
++ My friends are coming over on Saturday. | В субботу ко мне придут друзья.
+- [come over smb] (о чувстве) охватить
+~ (of a feeling) to suddenly affect someone
+> I don't know what came over me, I'm sorry. | Не знаю, что на меня нашло, простите.
++ A strange sadness came over her. | Её охватила странная грусть.
+
+= come up
+- подойти (чтобы заговорить)
+~ to move towards someone, usually to speak to them
+> A stranger came up to me and asked the way. | Незнакомец подошёл ко мне и спросил дорогу.
++ A boy came up and asked for my name. | Мальчик подошёл и спросил, как меня зовут.
+- (о вопросе, теме) возникнуть, быть упомянутым
+~ (of a subject or question) to be mentioned or discussed
+> The question of money came up at the meeting. | На встрече всплыл вопрос о деньгах.
++ His name came up in conversation. | Его имя всплыло в разговоре.
+- (о событии, проблеме) неожиданно случиться, подвернуться
+~ (of a problem or event) to happen, often unexpectedly
+> Something has come up, so I can't meet you tonight. | Кое-что случилось, поэтому я не смогу встретиться с тобой сегодня вечером.
++ I'm sorry, an urgent job came up. | Простите, возникло срочное дело.
+- (о солнце) взойти
+~ (of the sun) to rise
+> We watched the sun come up over the sea. | Мы смотрели, как солнце встаёт над морем.
++ The sun comes up at five in summer. | Летом солнце встаёт в пять.
